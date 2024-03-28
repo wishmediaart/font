@@ -22,7 +22,7 @@ http://scripts.sil.org/OFL
 }
 
 @font-face {
-	font-family: 'pretendards';
+	font-family: 'pretendard';
 	font-weight: 700;
 	font-display: swap;
 	src: local('Pretendard Bold'), url(Pretendard-Bold.woff2) format('woff2'), url(Pretendard-Bold.woff) format('woff');
@@ -43,10 +43,10 @@ http://scripts.sil.org/OFL
 }
 
 @font-face {
-	font-family: 'pretendards';
+	font-family: 'pretendard';
 	font-weight: 400;
 	font-display: swap;
-	src: local('Pretendard Regular'), url(https://cdn.jsdelivr.net/gh/wishmediaart/font/Pretendard-Regular.woff2) format('woff2'), url(https://cdn.jsdelivr.net/gh/wishmediaart/font/Pretendard-Regular.woff) format('woff');
+	src: local('Pretendard Regular'), url(Pretendard-Regular.woff2) format('woff2'), url(Pretendard-Regular.woff) format('woff');
 }
 
 @font-face {
